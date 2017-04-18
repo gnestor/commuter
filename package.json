@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/nteract/commuter#readme",
   "dependencies": {
-    "lerna": "^2.0.0-rc.1"
+    "lerna": "^2.0.0-rc.3"
   },
   "devDependencies": {
     "concurrently": "^3.1.0",
